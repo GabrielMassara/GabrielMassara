@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-<h3 align="left">Connect with me:</h3>
+<div align="left"><img src="https://dogemuchwow.com/wp-content/uploads/2019/07/ascii-doge-face.png" width="10%"></div>
 <p align="left">
 </p>
 
