@@ -1,4 +1,4 @@
-<img src="https://imgur.com/4EZo0Ld.png" width="50%">
+<img src="https://imgur.com/4EZo0Ld.png" width="50%" align="center">
 <h1 align="center">Hi 👋, I'm Gabriel Massara</h1>
 <h3 align="center">Estudando programação :)</h3>
 
