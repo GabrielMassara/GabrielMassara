@@ -73,6 +73,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="22"/> &nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="22"/> &nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="22"/> &nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="22"/> &nbsp;
       </p>
       <h4>⚡ BetLivre</h4>
       <p>Plataforma de apostas esportivas virtuais com moedas internas, ranking e interação entre jogadores.</p>
