@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://gabrielmassara.com/files/img/bannerGithub.png">
-  <br/>
+  <!-- <img src="https://gabrielmassara.com/files/img/bannerGithub.png">
+  <br/> -->
 </div>
 
 
