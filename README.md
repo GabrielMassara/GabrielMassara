@@ -4,7 +4,7 @@
 </div>
 
 
-## 🚀 Tecnologias
+##  Tecnologias
 
 <table>
   <thead>
@@ -15,7 +15,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>🧠 Linguagens de Programação</b></td>
+      <td><b> Linguagens de Programação</b></td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="24"/> &nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="24"/> &nbsp;
@@ -28,7 +28,7 @@
       </td>
     </tr>
     <tr>
-      <td><b>🎨 Front-end (Markup, Estilo e Frameworks)</b></td>
+      <td><b> Front-end (Markup, Estilo e Frameworks)</b></td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="24"/> &nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="24"/> &nbsp;
@@ -38,7 +38,7 @@
       </td>
     </tr>
     <tr>
-      <td><b>⚙️ Back-end (Runtimes & Frameworks)</b></td>
+      <td><b> Back-end (Runtimes & Frameworks)</b></td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="24"/> &nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" height="24"/>
@@ -46,7 +46,7 @@
       </td>
     </tr>
     <tr>
-      <td><b>🗄️ Bancos de Dados</b></td>
+      <td><b> Bancos de Dados</b></td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="24"/> &nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="24"/> &nbsp;
@@ -55,14 +55,14 @@
       </td>
     </tr>
     <tr>
-      <td><b>🧰 DevOps / Infra</b></td>
+      <td><b> DevOps / Infra</b></td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="24"/>
         <br/><sub>Docker</sub>
       </td>
     </tr>
     <tr>
-      <td><b>🔐 Autenticação & Segurança</b></td>
+      <td><b> Autenticação & Segurança</b></td>
       <td>
         <img src="https://gabrielmassara.com/files/img/linguagens/jwt.png" alt="JWT" height="24"/>
         <br/><sub>JWT</sub>
@@ -73,7 +73,7 @@
 
 <br/>
 
-## 🧩 Projetos em destaque
+##  Projetos em destaque
 
 <table>
   <tr>
@@ -99,7 +99,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="22"/> &nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="22"/> &nbsp;
       </p>
-      <h4>🎯 NowBox</h4>
+      <h4> NowBox</h4>
       <p>Gestão de empresas de guarda-volumes: boletos, contratos, unidades e clientes — foco em agilidade e controle.</p>
       <a href="https://gabrielmassara.com/projetos/nb/" target="_blank">
         <img alt="Abrir projeto" src="https://img.shields.io/badge/Abrir%20projeto-0A66C2?style=for-the-badge" />
@@ -118,7 +118,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="22"/> &nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="22"/> &nbsp;
       </p>
-      <h4>⚡ BetLivre</h4>
+      <h4> BetLivre</h4>
       <p>Plataforma de apostas esportivas virtuais com moedas internas, ranking e interação entre jogadores.</p>
       <a href="https://betlivre.bet/" target="_blank">
         <img alt="Abrir projeto" src="https://img.shields.io/badge/Abrir%20projeto-0A66C2?style=for-the-badge" />
@@ -134,7 +134,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="22"/> &nbsp;
         <img src="https://gabrielmassara.com/files/img/linguagens/jwt.png" alt="JWT" height="22"/>
       </p>
-      <h4>🐘 SafeAPI</h4>
+      <h4> SafeAPI</h4>
       <p>API RESTful em PHP puro com JWT e sessões nativas; módulos independentes; Docker/Compose; banco PostgreSQL.</p>
       <a href="https://github.com/GabrielMassara/SafeAPI" target="_blank">
         <img alt="Repositório" src="https://img.shields.io/badge/Reposit%C3%B3rio-181717?logo=github&logoColor=white&style=for-the-badge" />
@@ -152,7 +152,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="22"/> &nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="22"/>
       </p>
-      <h4>📅 Boralá</h4>
+      <h4> Boralá</h4>
       <p>Protótipo estático de plataforma de eventos locais em HTML/CSS/Bootstrap com cartões responsivos a partir de JSON.</p>
       <a href="https://gabrielmassara.com/projetos/borala/" target="_blank">
         <img alt="Abrir projeto" src="https://img.shields.io/badge/Abrir%20projeto-0A66C2?style=for-the-badge" />
