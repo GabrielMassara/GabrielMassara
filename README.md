@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://gabrielmassara.com/files/img/bannerGithub.png">
+  <img src="https://gabrielmassara.com/files/img/bannerGithub2.png">
   <br/>
   
   <a href="https://gabrielmassara.com/" target="_blank">
