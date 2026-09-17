@@ -136,16 +136,25 @@
         <img src="https://gabrielmassara.com/files/img/cards/nb.png" alt="NowBox - Banner" width="100%" />
       </a>
       <p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="22"/> &nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="22"/> &nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="22"/> &nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="22"/> &nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" height="22"/> &nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="22"/> &nbsp;
+        <img src="https://gabrielmassara.com/files/img/linguagens/flyway.svg" alt="Flyway" height="22"/> &nbsp;
+        <img src="https://gabrielmassara.com/files/img/linguagens/jwt.png" alt="JWT" height="22"/> &nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" height="22"/> &nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="22"/> &nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" height="22"/>
       </p>
       <h4> NowBox</h4>
-      <p>Sistema completo de gerenciamento para empresas de self storage com emissão automática de boletos, contratos digitais e dashboard administrativo para controle total do negócio.</p>
+      <p>Sistema completo de gerenciamento para empresas de self storage com o objetivo de simplificar a rotina de empresas do setor, reduzindo trabalho manual e dando visibilidade total da operação em um só lugar.</p>
+      <a href="https://github.com/GabrielMassara/NowBox" target="_blank">
+        <img alt="Repositório" src="https://img.shields.io/badge/Reposit%C3%B3rio-181717?logo=github&logoColor=white&style=for-the-badge" />
+      </a>
       <a href="https://gabrielmassara.com/projetos/nb/" target="_blank">
         <img alt="Abrir projeto" src="https://img.shields.io/badge/Abrir%20projeto-0A66C2?style=for-the-badge" />
       </a>
     </td>
+
   </tr>
 
   <tr>
