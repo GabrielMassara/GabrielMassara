@@ -66,7 +66,8 @@
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="24"/> &nbsp;
         <img src="https://gabrielmassara.com/files/img/linguagens/minio.png" alt="MinIO" height="24"/>
-        <br/><sub>Docker • MinIO</sub>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" height="24"/>
+        <br/><sub>Docker • MinIO • RabbitMQ</sub>
       </td>
     </tr>
     <tr>
@@ -136,15 +137,20 @@
         <img src="https://gabrielmassara.com/files/img/cards/nb.png" alt="NowBox - Banner" width="100%" />
       </a>
       <p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="22"/> &nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" height="22"/> &nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="22"/> &nbsp;
-        <img src="https://gabrielmassara.com/files/img/linguagens/flyway.svg" alt="Flyway" height="22"/> &nbsp;
-        <img src="https://gabrielmassara.com/files/img/linguagens/jwt.png" alt="JWT" height="22"/> &nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" height="22"/> &nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="22"/> &nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" height="22"/>
-      </p>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="22"/> &nbsp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" height="22"/> &nbsp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="22"/> &nbsp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" alt="Hibernate" height="22"/> &nbsp;
+          <img src="https://gabrielmassara.com/files/img/linguagens/flyway.svg" alt="Flyway" height="22"/> &nbsp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="Maven" height="22"/> &nbsp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="Swagger" height="22"/> &nbsp;
+          <img src="https://gabrielmassara.com/files/img/linguagens/jwt.png" alt="JWT" height="22"/> &nbsp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" height="22"/> &nbsp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="22"/> &nbsp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" height="22"/> &nbsp;
+          <img src="https://gabrielmassara.com/files/img/linguagens/minio.png" alt="MinIO" height="22"/> &nbsp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" height="22"/>
+        </p>
       <h4> NowBox</h4>
       <p>Sistema completo de gerenciamento para empresas de self storage com o objetivo de simplificar a rotina de empresas do setor, reduzindo trabalho manual e dando visibilidade total da operação em um só lugar.</p>
       <a href="https://github.com/GabrielMassara/NowBox" target="_blank">
